@@ -32,7 +32,7 @@ list of webpages with most unique page views also ordered
          /index     5 unique views
          etc...
 
-## example
+## Working example
 
        ./lib/parser.rb logs/webserver.log 
 
