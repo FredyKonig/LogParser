@@ -36,20 +36,20 @@ list of webpages with most unique page views also ordered
 
        ./lib/parser.rb logs/webserver.log 
 
-URL list with counts:
-/about/2 90 visits 
-/contact 89 visits 
-/index 82 visits 
-/about 81 visits 
-/help_page/1 80 visits 
-/home 78 visits 
+     URL list with counts:
+     /about/2 90 visits 
+     /contact 89 visits 
+     /index 82 visits 
+     /about 81 visits 
+     /help_page/1 80 visits 
+     /home 78 visits 
 
-URL List with uniq ip
-/help_page/1 23  unique views
-/contact 23  unique views
-/home 23  unique views
-/index 23  unique views
-/about/2 22  unique views
-/about 21  unique views
+     URL List with uniq ip
+     /help_page/1 23  unique views
+     /contact 23  unique views
+     /home 23  unique views
+     /index 23  unique views
+     /about/2 22  unique views
+     /about 21  unique views
 
 
